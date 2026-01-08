@@ -5,15 +5,10 @@
 An electricity board calculates charges based on usage.
 Write a program that:
 • Takes number of units consumed
-
 • Calculates bill:
-
   o First 100 units → ₹2/unit
-  
   o Next 100 units → ₹3/unit
-  
   o Remaining → ₹5/unit
-  
 • Displays total bill
 
 
