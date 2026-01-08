@@ -1,4 +1,4 @@
-**Programs on Sorting Electricity Bill Calculator, Bank balance and Final month Salary**
+**Programs on Sorting, Electricity Bill Calculator, Bank balance and Final month Salary**
 
 *Question 2*
 
