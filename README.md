@@ -1,5 +1,6 @@
 **Programs on Electricity Bill Calculator, Bank balance and Final month Salary**
-*Question 3*
+
+Question 3
 An electricity board calculates charges based on usage.
 Write a program that:
 • Takes number of units consumed
@@ -8,7 +9,8 @@ Write a program that:
   o Next 100 units → ₹3/unit
   o Remaining → ₹5/unit
 • Displays total bill
-*Question 4*
+
+Question 4
 An ATM machine allows withdrawals only if sufficient balance is available.
 Write a program that:
 • Stores a user’s balance
@@ -17,7 +19,8 @@ Write a program that:
   o Amount must be a multiple of 100
   o Balance must be sufficient
 • Deducts amount and displays updated balance
-*Question 5*
+
+Question 5
 A company calculates monthly salary based on basic pay.
 Write a program that:
 • Accepts basic salary
